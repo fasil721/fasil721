@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Dart, Hive, GetX, Firebase, API Integration, Socket.io**
 
 - 📫 How to reach me **muhammedfasil.t17@gmail.com**
 
