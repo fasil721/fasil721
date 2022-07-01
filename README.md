@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasil721&label=Profile%20views&color=0e75b6&style=flat" alt="fasil721" /> </p>
 
-- 🔭 I’m currently working on [Geek Findr](https://github.com/fasil721/geekfindr-flutter-client)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Flutter**
 
